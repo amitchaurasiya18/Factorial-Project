@@ -1,0 +1,7 @@
+D:\Visual Studio Projects (Training)\FactorialProject\bin\Debug\FactorialProject.exe.config
+D:\Visual Studio Projects (Training)\FactorialProject\bin\Debug\FactorialProject.exe
+D:\Visual Studio Projects (Training)\FactorialProject\bin\Debug\FactorialProject.pdb
+D:\Visual Studio Projects (Training)\FactorialProject\obj\Debug\FactorialProject.csproj.AssemblyReference.cache
+D:\Visual Studio Projects (Training)\FactorialProject\obj\Debug\FactorialProject.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects (Training)\FactorialProject\obj\Debug\FactorialProject.exe
+D:\Visual Studio Projects (Training)\FactorialProject\obj\Debug\FactorialProject.pdb
